@@ -6,7 +6,7 @@
 
 <h1> Cryptography with Java </h1>
 <p>
-This repository is a reference on how to conduct symmetric encryption decryption with java using Java Cryptography Extension
+This repository is a reference on how to conduct symmetric encryption and decryption with java using Java Cryptography vgv
 (JCE) library. There are four encryption algorithms used in this example:</p>
 <p>1. Advanced Encryption Standard (AES)</p>
 <p>2. Data Encryption Standard (DES)</p>
@@ -19,7 +19,7 @@ Don't forget to setup the environment as well </p>
 <p> 2. <a href="https://netbeans.org/downloads/" target="_blank">Netbeans IDE (optional)</a>, you can still use your favorite IDE</p> 
 <p> 2. <a href="http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html" target="_blank"> Java Cryptography
 Extension (JCE) Library </a></p>
-<p> 3. <a href="http://www.jtattoo.net/Download.html" target="_blank">Jtattoo Library (optional)</a> to change the look and feel of our GUI </p>
+<p> 3. <a href="http://www.jtattoo.net/Download.html" target="_blank">Jtattoo Library (optional)</a> to change the app GUI's look and feel  </p>
 <p> 4. <a href="https://poi.apache.org/" target="_blank">Apache POI</a> to export the output into excel file </p>
 
 
