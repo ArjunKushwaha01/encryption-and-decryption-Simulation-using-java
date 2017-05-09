@@ -6,7 +6,7 @@
 
 <h1> Cryptography with Java </h1>
 <p>
-This repository is a reference on how to conduct symmetric encryption and decryption with java using Java Cryptography Extension
+This repository is a reference to conduct symmetric encryption and decryption with java using Java Cryptography Extension
 (JCE) library. There are four encryption algorithms used in this example:</p>
 <p>1. Advanced Encryption Standard (AES)</p>
 <p>2. Data Encryption Standard (DES)</p>
